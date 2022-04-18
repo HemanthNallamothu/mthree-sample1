@@ -1,5 +1,0 @@
-This is the content present in the file
-eggs
-noodles
-fruits
-vegetables
